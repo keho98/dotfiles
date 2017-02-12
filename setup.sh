@@ -153,7 +153,7 @@ install_zsh () {
 
 # Warn user this script will overwrite current dotfiles
 while true; do
-  print_info "Dotfile setup keho98 by"
+  print_info "Dotfile setup by keho98"
   read -p "Warning: this will overwrite your current dotfiles. And do other potentiall strange things. Continue? [y/n] " yn
   case $yn in
     [Yy]* ) break;;
@@ -165,7 +165,7 @@ done
 # A bunch of pre setup including making sure git is installed
 # sudo apt-get update
 # sudo apt-get upgrade -y
-# sudo apt-get install git zsh curl wget vim -y
+# sudo apt-get install --no-install-recommends git zsh curl wget vim imagemagick silversearcher-ag -y
 
 install_zsh
 

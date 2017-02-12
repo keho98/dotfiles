@@ -165,7 +165,7 @@ done
 # A bunch of pre setup including making sure git is installed
 # sudo apt-get update
 # sudo apt-get upgrade -y
-# sudo apt-get install git zsh curl wget -y
+# sudo apt-get install git zsh curl wget vim -y
 
 install_zsh
 

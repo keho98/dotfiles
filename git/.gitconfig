@@ -1,0 +1,7 @@
+[user]
+	email = keho98@gmail.com
+	name = Kevin Ho
+[core]
+  editor = vim
+[push]
+  default = simple

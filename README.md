@@ -8,7 +8,7 @@ Personal Dotfiles
 ## Installation
 
 ```sh
-git clone https://github.com/nicksp/dotfiles.git ~/dotfiles
+git clone https://github.com/keho98/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 chmod +x setup.sh
 ./setup.sh

@@ -35,3 +35,8 @@ install_zsh () {
 sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get install git zsh curl wget -y
+
+install_zsh
+
+# Reload zsh settings
+source ~/.zshrc

@@ -8,10 +8,10 @@ Personal Dotfiles
 ## Installation
 
 ```sh
-$ git clone https://github.com/nicksp/dotfiles.git ~/dotfiles
-$ cd ~/dotfiles
-$ chmod +x setup.sh
-$ ./setup.sh
+git clone https://github.com/nicksp/dotfiles.git ~/dotfiles
+cd ~/dotfiles
+chmod +x setup.sh
+./setup.sh
 ```
 
 ## Thanks to...

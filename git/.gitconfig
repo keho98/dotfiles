@@ -2,6 +2,9 @@
 	email = keho98@gmail.com
 	name = Kevin Ho
 [core]
-  editor = vim
+	editor = vim
 [push]
-  default = simple
+	default = simple
+[help]
+        # Correct typos
+	autocorrect = 1

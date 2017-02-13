@@ -19,3 +19,4 @@ The following people and repositories below below as a reference:
 - [nicksp/dotfiles](https://github.com/nicksp/dotfiles)
 - [frnsys/dippindots](https://github.com/frnsys/dippindots)
 - [webpro/dotfiles](https://github.com/webpro/dotfiles)
+- [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles)

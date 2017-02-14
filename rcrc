@@ -1,2 +1,2 @@
-EXCLUDES="README.md LICENSE setup.sh install.sh"
+EXCLUDES="README.md LICENSE setup.sh setup install.sh"
 DOTFILES_DIRS="$HOME/dotfiles-local $HOME/dotfiles"

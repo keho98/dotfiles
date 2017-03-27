@@ -1,6 +1,9 @@
 # to avoid accidentally overwriting files
 alias mv="mv -i"
 
+# jupyter
+alias jnb="jupyter notebook"
+
 # Git
 alias ga="git add"
 alias gaa="git add -A"
